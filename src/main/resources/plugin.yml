@@ -1,0 +1,6 @@
+name: Hmmkits
+version: '${project.version}'
+main: org.hmmbo.hmmmkits.Hmmmkits
+api-version: '1.19'
+commands:
+  kit:
